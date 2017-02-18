@@ -1,3 +1,4 @@
+---
 title: 在 Gentoo 环境下搭建 SBCL
 date: 2014-01-12
 ---
